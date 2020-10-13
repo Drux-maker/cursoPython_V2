@@ -1,1 +1,10 @@
-probando git
+TAREAS HA REALIZAR PARA APRENDER PROGRAMACION BASICA
+****************************************************
+
+1.- BUCLES
+
+Hacer un programa que tenga un array de los primeros 100 numeros pares.
+.- imprimir todos los numeros del array usando un while
+.- impirmir todos los numeros usando un for
+.- imprimir todos menos los multiplos de 3
+.- imprimir todos hasta encontrar 10 primero numeros primos
