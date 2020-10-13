@@ -12,6 +12,7 @@ Notas:
 
 
 
+
 array_num = list(range(0,101))
 array_nombre = ['d','a','n','i','e','l','j','i','m','e','n','e','z','d','e','a','r','r','i','b','a']
 x = 0
@@ -20,7 +21,7 @@ x = 0
 for x in array_num:
     print(x)
 
-
+# con un for reocrro el array y pinto elemento a elemento
 for x in range(10):
     print(array_num[x])
     print('la letra',x, 'es', array_nombre[x+1])
