@@ -1,3 +1,15 @@
+"""
+Notas:
+.- Cada bloque tienes que poner tus comentarios de lo que hace.
+.- tambien uqe pongas tus opiniones de lo que vas aprendiendo
+
+
+
+"""
+
+
+
+
 
 
 array_num = list(range(0,101))
