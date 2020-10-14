@@ -8,3 +8,8 @@ Hacer un programa que tenga un array de los primeros 100 numeros pares.
 .- impirmir todos los numeros usando un for
 .- imprimir todos menos los multiplos de 3
 .- imprimir todos hasta encontrar 10 primero numeros primos
+
+
+2.- WHILE
+
+.- Hacer un programa para adivinar un numero aleatorio (randint(0,10)). pernanecer en el while hasta que acierte, salir con break
