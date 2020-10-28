@@ -35,8 +35,8 @@ for x in range(0,101,2):
 while x<1:
     print (array_num)
     x = x+1
-
+"""
 for x in array_num:
     if(array_num[x]%3>0):
         print(array_num[x])
-"""
+

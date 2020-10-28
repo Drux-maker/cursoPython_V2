@@ -1,4 +1,4 @@
-edad = 0
+edad = x < 101
 
 while edad <= 20:
 
@@ -7,5 +7,5 @@ while edad <= 20:
         break
     
 
-    print ' Tienes: ' + str(edad)
+    print (' Tienes: ' + str(edad))
     edad = edad + 1
