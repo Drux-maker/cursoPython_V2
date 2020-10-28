@@ -20,5 +20,5 @@ for x in range (101):
 
 for x in range (101):
     if (lista3[x]%5 == 0):
-        lista4.append(lista3[*])
+        lista4.
 print (lista4)
