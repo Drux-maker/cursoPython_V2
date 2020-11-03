@@ -9,7 +9,7 @@ Hacer un programa que tenga un array de los primeros 100 numeros pares.
 .- imprimir todos menos los multiplos de 3
 .- imprimir todos hasta encontrar 10 primero numeros primos
 
-*.- Nuevo: 
+*.- Nuevo, semana 28/10 
 .- Crea un array (tambien llamado Lista en Phyton) con 100 numeros consecutivos usando un 'for'. Copia con otro 'for' todos los numeros pares a otra lista. Quita de la segunda lista los multiplos de '4'. Sustituye los multiplos de 5 por un '*'. Añade 25 numeros impares al final de la lista.
 Estudiar primero: https://devcode.la/tutoriales/listas-python/
 
