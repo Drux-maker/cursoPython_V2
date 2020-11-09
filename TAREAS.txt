@@ -13,3 +13,9 @@ Hacer un programa que tenga un array de los primeros 100 numeros pares.
 .- Crea un array (tambien llamado Lista en Phyton) con 100 numeros consecutivos usando un 'for'. Copia con otro 'for' todos los numeros pares a otra lista. Quita de la segunda lista los multiplos de '4'. Sustituye los multiplos de 5 por un '*'. Añade 25 numeros impares al final de la lista.
 Estudiar primero: https://devcode.la/tutoriales/listas-python/
 
+*.- semana 9/11
+Estudia la serie de fibonachi:  para un nuemro dado su numero ficbonachi es la suma de todos su pedecesores:
+EJ: fichonachi de 5 = 5+4+3+2+1  = 15
+
+Haz un programa que pregunte un nuemro por teclado y devuelva su fibonachi.
+salimos el programa si tecleamos 99, si no estamos en un while for ever.
