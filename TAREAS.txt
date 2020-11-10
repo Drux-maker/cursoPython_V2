@@ -14,8 +14,9 @@ Hacer un programa que tenga un array de los primeros 100 numeros pares.
 Estudiar primero: https://devcode.la/tutoriales/listas-python/
 
 *.- semana 9/11
-Estudia la serie de fibonachi:  para un nuemro dado su numero ficbonachi es la suma de todos su pedecesores:
-EJ: fichonachi de 5 = 5+4+3+2+1  = 15
+Estudia la serie de fibonachi:  para un nuemro dado su numero ficbonachi es la suma de el con su predecesor:
+EJ: fichonachi de 5 = 5+4  = 9
+de 20 = 49 = 20 +19
 
 Haz un programa que pregunte un nuemro por teclado y devuelva su fibonachi.
 salimos el programa si tecleamos 99, si no estamos en un while for ever.
