@@ -3,14 +3,16 @@
 #creo las variables
 lista1 = []
 contador = 0
-
+listanoprimos = []
+listaprimos = []
 
 #creo el arrray con 100 numeros
-for x in range (11):
+for x in range (101):
     lista1.append(x)
 print ("Array original: \n", lista1)
 #aqui igualo x a cero     
-#x = 0
+
+#x = 1
 #aqui imprimo los numeros 1 a 1 hasta el tope
 """while (lista1[x] < 100):
     print (lista1[x])
@@ -35,19 +37,25 @@ for x in range (101):
 
 print ("Array final: \n", lista1)
 """
-for x in range (4):
+for x in range (1,11):
+    
+    for y in range (1,x):
+        print ("valor de x e y ",x,y)
+        if lista1[x] < 2:
+            listanoprimos.append(lista1[x])        
+        if((lista1[x]%lista1[y]) == 0):
+           listanoprimos.append(lista1[x])
+           break
+        else :
+            listaprimos.append(lista1[x])
+            
 
-    if (lista1[x] < 2):
-        lista1.remove(lista1[x])
-        lista1.remove(lista1[0])  
+  
 
+print ("Array no primos", listanoprimos)
+print ("Array primos", listaprimos)
 
-    else:
-        for x in range(2):
-            if ((lista1[x] % lista1[x]) == 0):
-                lista1.remove(lista1[x])
-
-
-print ("Array primos", lista1)
-
-
+""" 
+if (((lista1[x]%lista1[x]) == 0) and ((lista1[x]%1) == 0)):
+        print (lista1[x])
+"""
