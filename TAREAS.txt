@@ -1,6 +1,16 @@
 TAREAS HA REALIZAR PARA APRENDER PROGRAMACION BASICA
 ****************************************************
 
+2.- Proyecto 'Dice'
+
+.- Vamos a simular la tirada de un dado español usando la fucion random
+.- Implementa la clase 'dado' que tenga un metodo para lanzar el dado y devuelva el numero
+.- Dibujar el resultado del dado usando caracteres y la fucnion print (' ******')
+.- simular el efecto del dado girando en la pantalla a base de print sucesivos.
+
+
+
+
 1.- BUCLES
 
 Hacer un programa que tenga un array de los primeros 100 numeros pares.
